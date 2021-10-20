@@ -32,7 +32,7 @@
 | week2 | [회귀분석 \(1\)](https://github.com/fromslow/Assignment/blob/main/Regression/Regression_%EA%B3%BC%EC%A0%9C1_%EC%A0%95%EC%88%98%EC%97%B0.ipynb) | [16기 정수연](https://github.com/fromslow) |
 | week2 | [회귀분석 \(2\)](https://github.com/fromslow/Assignment/blob/main/Regression/Regression_%EA%B3%BC%EC%A0%9C2_%EC%A0%95%EC%88%98%EC%97%B0.ipynb) | [16기 정수연](https://github.com/fromslow) |
 | week2 | [회귀분석 \(3\)](https://github.com/fromslow/Assignment/blob/main/Regression/Regression_%EA%B3%BC%EC%A0%9C3_%EC%A0%95%EC%88%98%EC%97%B0.ipynb) | [16기 정수연](https://github.com/fromslow) |
-| week2 | [Optimization](https://github.com/tobigs-datamarket/tobigs-15th/blob/main/2wk_Optimization/Optimization_15%EA%B8%B0%20%EC%9D%B4%EC%84%B1%EB%B2%94.ipynb) | [15기 이성범](https://github.com/SeongBeomLEE) |
+| week2 | [Optimization](https://github.com/tobigs-datamarket/tobigs-15th/blob/main/2wk_Optimization/Optimization_15%EA%B8%B0%20%EC%9D%B4%EC%84%B1%EB%B2%94.ipynb) | [16기 ]() |
 | week3 | [KNN&Clustering \(1\)](https://github.com/YerimLee00/tobigs16/blob/main/KNN%20%EA%B3%BC%EC%A0%9C_16%EA%B8%B0%20%EC%9D%B4%EC%98%88%EB%A6%BC.ipynb) | [16기 이예림](https://github.com/YerimLee00) |
 | week3 | [KNN&Clustering \(2\)](https://github.com/YerimLee00/tobigs16/blob/main/Clustering%20%EA%B3%BC%EC%A0%9C_16%EA%B8%B0%20%EC%9D%B4%EC%98%88%EB%A6%BC.ipynb) |  [16기 이예림](https://github.com/YerimLee00) |
 | week3 | [NaiveBayes](https://github.com/YerimLee00/tobigs16/blob/main/NaiveBayes_Assignment_16%EA%B8%B0%20%EC%9D%B4%EC%98%88%EB%A6%BC.ipynb) | [16기 이예림](https://github.com/YerimLee00) |
