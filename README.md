@@ -54,4 +54,7 @@
 | week8 | [자연어처리 기초 (NLP)](https://github.com/jihunju8589/tobigs16/blob/master/week8_NLP/week8_nlp_basic_assignment.ipynb) | [16기 주지훈](https://github.com/jihunju8589) |
 | week8 | [강화학습](https://github.com/YerimLee00/tobigs16/blob/main/Week%208_RL%20%EC%8B%A4%EC%82%AC%EB%A1%80%20%EC%A1%B0%EC%82%AC_16%EA%B8%B0%20%EC%9D%B4%EC%98%88%EB%A6%BC.ipynb) | [16기 이예림](https://github.com/YerimLee00) |
 | week9 | [모델 심화1]() | [16기]() | 
+| week9 | [모델 심화2]() | [16기]() | 
+| week10 | [모델배포 ]() | [16기 이예림](https://github.com/YerimLee00) |
+
 
