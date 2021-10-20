@@ -45,7 +45,7 @@
 | week5 | [크롤링](https://github.com/Dream-Nine/TobigsHomework/blob/master/week05/week05_Crawling_%EC%9D%B4%EC%A2%85%EB%8C%80.ipynb) | [16기 이종대](https://github.com/Dream-Nine)  |
 | week6 | [신경망 기초](https://github.com/Jooho-Git/tobigs16/blob/main/6%EC%A3%BC%EC%B0%A8_%EA%B3%BC%EC%A0%9C/week6_NeuralNetworkBasic_assignment.pdf)  | [16기 김주호](https://github.com/Jooho-Git) |
 | week6 | [신경망 기초](https://github.com/jihunju8589/tobigs16/blob/master/week6_NeuralNetworkBasic/Neural%20Network%20Basic%20Assignment_%EC%A3%BC%EC%A7%80%ED%9B%88.pdf)  | [16기 주지훈](https://github.com/jihunju8589) |
-| week6 | [클래스]()  | [16기]() |
+| week6 | [클래스](https://github.com/Dream-Nine/TobigsHomework/blob/master/week06/week06_Class-CustomDataset_%EC%9D%B4%EC%A2%85%EB%8C%80.ipynb)  | [16기 이종대](https://github.com/Dream-Nine) |
 | week7 | [신경망 심화](https://github.com/kkhv/tobigs16/tree/master/week7/Week7_NN%EC%8B%AC%ED%99%94_Assignment) | [16기 김권호](https://github.com/kkhv) |
 | week7 | [추천시스템](https://github.com/Lainshower/tobigs16/blob/main/Week%207/Recommendation/Neural%20Collaborative%20Filtering.pdf) | [16기 장준원](https://github.com/Lainshower) |
 | week7 | [추천시스템](https://github.com/minjin-jeon/Tobigs16_lecture/blob/master/week%207/recommendation/week7_Recommendation_%EA%B0%95%EC%A7%80%EC%9A%B0.pdf) | [16기 전민진](https://github.com/minjin-jeon) |
