@@ -56,5 +56,5 @@
 | week9 | [모델 심화1]() | [16기]() | 
 | week9 | [모델 심화2]() | [16기]() | 
 | week10 | [모델배포 ]() | [16기 이예림](https://github.com/YerimLee00) |
-
+| week10 | [생성모델 ](https://github.com/YerimLee00/tobigs16/blob/6bfd3cdb700beec3839bb19af679fea70c6f4e1c/Week_10_DCGAN_%EA%B3%BC%EC%A0%9C_16%EA%B8%B0_%EC%9D%B4%EC%98%88%EB%A6%BC.ipynb) | [16기 이예림](https://github.com/YerimLee00)
 
