@@ -53,7 +53,7 @@
 | week8 | [이미지 기초 (CNN)](https://github.com/tobigs-datamarket/tobigs-16th/tree/main/8wk_CNN%EA%B8%B0%EC%B4%88) | [16기 김유빈]() |
 | week8 | [자연어처리 기초 (NLP)](https://github.com/tobigs-datamarket/tobigs-16th/blob/main/8wk_NLP%EA%B8%B0%EC%B4%88/week8_nlp_basic_assignment.ipynb) | [16기 주지훈](https://github.com/jihunju8589) |
 | week8 | [강화학습](https://github.com/tobigs-datamarket/tobigs-16th/blob/main/8wk_%EA%B0%95%ED%99%94%ED%95%99%EC%8A%B5/Week%208_RL%20%EC%8B%A4%EC%82%AC%EB%A1%80%20%EC%A1%B0%EC%82%AC_16%EA%B8%B0%20%EC%9D%B4%EC%98%88%EB%A6%BC.ipynb) | [16기 이예림](https://github.com/YerimLee00) |
-| week9 | [모델 심화1]() | [16기]() | 
+| week9 | [모델 심화1](https://github.com/tobigs-datamarket/tobigs-16th/blob/main/9wk_%EB%AA%A8%EB%8D%B8%EC%8B%AC%ED%99%942(RNN)/Attenton%20is%20all%20you%20need.pdf) | [16기 장준원](https://github.com/Lainshower) | 
 | week9 | [모델 심화2]() | [16기]() | 
 | week10 | [모델배포 ](https://github.com/tobigs-datamarket/tobigs-16th/tree/main/10wk_%EB%AA%A8%EB%8D%B8%EB%B0%B0%ED%8F%AC) | [16기 이예림](https://github.com/YerimLee00) |
 | week10 | [생성모델 ](https://github.com/tobigs-datamarket/tobigs-16th/blob/main/10wk_%EC%83%9D%EC%84%B1%EB%AA%A8%EB%8D%B8/Week_10_DCGAN_%EA%B3%BC%EC%A0%9C_16%EA%B8%B0_%EC%9D%B4%EC%98%88%EB%A6%BC.ipynb) | [16기 이예림](https://github.com/YerimLee00)
